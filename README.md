@@ -36,11 +36,6 @@ python_feature_extraction_functions.py
 
 requirements.txt
     Python package versions required for the Python functions.
-
-models_essentia/
-    Directory in which required Essentia TensorFlow model files should be
-    placed. The model files themselves are not distributed with this
-    repository.
 ```
 
 ## Requirements
