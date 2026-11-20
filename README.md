@@ -1,4 +1,4 @@
-# Audio feature extraction code for music-induced analgesia
+# Audio feature extraction code for manuscript "The role of audio features for music-induced analgesia"
 
 This repository contains custom MATLAB and Python functions used to extract
 audio features for the manuscript:
