@@ -3,8 +3,7 @@
 This repository contains custom MATLAB and Python functions used to extract
 audio features for the manuscript:
 
-> Maidhof et al. (2026). *The role of audio features for music-induced
-> analgesia*. [under review].
+> *The role of audio features for music-induced analgesia*. [under review].
 
 The functions were used to extract acoustic and music-related audio features
 for analyses of music-induced analgesia. They include selected feature
@@ -16,7 +15,7 @@ as well as further exploratory audio features.
 This repository contains the custom feature-extraction functions used in the
 study. It does not contain:
 
-- the audio stimuli or other source audio files;
+- the audio stimuli;
 - participant-level data;
 - third-party software packages or pre-trained model files.
 
@@ -308,7 +307,7 @@ Relevant software and methodological references include:
 
 If you use this code, please cite the associated manuscript:
 
-> Maidhof et al. (2026). *The role of audio features for music-induced
+> Anonymized et al. (2026). *The role of audio features for music-induced
 > analgesia*. [Journal after publication].
 
 Please also cite the relevant third-party software and methodological
@@ -316,14 +315,13 @@ references listed above.
 
 The archived version of this code associated with the publication is:
 
-> Czedik-Eysenberg, I. (2026). *Audio feature extraction code for
+> Anonymized (2026). *Audio feature extraction code for
 > music-induced analgesia* (Version 1.0.0). Zenodo.
 > https://doi.org/[ZENODO-DOI]
 
 ## Licence
 
 The original code in this repository is made available under the MIT License.
-See the `LICENSE` file for details.
 
 Third-party dependencies and model files are not covered by the MIT License
 and remain subject to their respective licences and terms of use.
