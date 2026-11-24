@@ -1,9 +1,9 @@
 """
 Python functions for extracting audio features.
-Author: Isabella Czedik-Eysenberg
+Author: Anonymized
 
 These functions were used for feature extraction in the manuscript:
-Maidhof et al. (2026). "The role of audio features for music-induced
+Anonymized et al. (2026). "The role of audio features for music-induced
 analgesia".
 
 The module uses the following audio feature extraction libraries:
