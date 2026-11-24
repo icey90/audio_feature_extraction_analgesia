@@ -1,8 +1,8 @@
 % Feature extraction functions based on MIRtoolbox (Lartillot et al., 2008),
 % used for replicating results reported in Knox et al. (2011),
 % as well as exploratory analyses, as reported in manuscript:
-% Maidhof et al. (2026): "The role of audio features for music-induced analgesia"
-% Author: Isabella Czedik-Eysenberg
+% Anonymized et al. (2026): "The role of audio features for music-induced analgesia"
+% Author: Anonymized
 %
 % MIRtoolbox: Lartillot, O., Toiviainen, P., & Eerola, T. (2008).
 % A matlab toolbox for music information retrieval. In Data Analysis, 
